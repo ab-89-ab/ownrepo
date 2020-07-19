@@ -1,1 +1,1 @@
-select * from something
+#select * from something
